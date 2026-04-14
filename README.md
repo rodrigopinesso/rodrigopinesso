@@ -58,15 +58,6 @@ Engenheiro de Software com experiência em facilitação ágil, gestão de backl
 
 ---
 
-### Certificações
-
-- 📜 &nbsp;**Talking to AI: Prompt Engineering for Project Managers** — PMI
-- 📜 &nbsp;**Scrum Fundamentals Certified (SFC)** — SCRUMstudy
-- 📜 &nbsp;**AI Product Owner 8k+** — Canal Valor
-- 📜 &nbsp;**Metodologias Ágeis: XP, Scrum, Lean e Kanban** — Udemy
-
----
-
 ### GitHub Stats
 
 <div align="center">
